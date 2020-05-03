@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+}
+.heading{
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+  background-color: #00aac7;
+}
+
+.sub-heading{
+  font-style: italic;
+  background-color: #00aac7;
+  border: 3px solid red;
+  margin: 5px;
+}
